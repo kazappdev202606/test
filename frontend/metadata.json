@@ -1,0 +1,4 @@
+{
+  "name": "Deployment Health Check & Tic-Tac-Toe",
+  "description": "デプロイ環境の動作確認・疎通チェックが行える、高機能かつスタイリッシュな3×3の〇×ゲーム（Tic-Tac-Toe）ダミーアプリです。"
+}
